@@ -1,5 +1,7 @@
 # Leetcode
-[Solutions to SQL Leetcode problems](https://github.com/kesanibharath/Leetcode/tree/main/SQL)
+SQL LEETCODE SOLUTIONS
+
+[SQL LEETCODE REPO](https://github.com/kesanibharath/Leetcode/tree/main/SQL)
 
 [176. Second Highest Salary](https://github.com/kesanibharath/Leetcode/blob/73e072fee47fd7b89b7e66e32567c17294e0ba19/SQL/176.%20Second%20Highest%20Salary)
 
