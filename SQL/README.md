@@ -9,3 +9,5 @@ SQL LEETCODE SOLUTIONS
 
 [181. Employees Earning More Than Their Managers](https://github.com/kesanibharath/Leetcode/blob/main/SQL/181.%20Employees%20Earning%20More%20Than%20Their%20Managers)
 
+[182. Duplicate Emails](https://github.com/kesanibharath/Leetcode/blob/46e265fa2ff65d10e9c9d12e6b483288c590d5bf/SQL/182.%20Duplicate%20Emails)
+
